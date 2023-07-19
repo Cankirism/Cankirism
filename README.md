@@ -1,4 +1,4 @@
-- 👋 Merhaba, Çankırı il Sağlık Müdürlüğü Güthub hesabıdır
+- 👋 Merhaba, Çankırı il Sağlık Müdürlüğü Github hesabıdır
 
 - 🌱  Go, AspNet Core, Web Api,NoSql Databases.
 
